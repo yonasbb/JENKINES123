@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><testrun name="StudentGradeClassifierTest" project="StudentGradClasifier" tests="13" started="13" failures="0" errors="0" ignored="0">
+  <testsuite name="com.gradeclassifier.StudentGradeClassifierTest" time="0.002">
+    <testcase name="testInvalidScoreNegative" classname="com.gradeclassifier.StudentGradeClassifierTest" time="0.0"/>
+    <testcase name="testClassifyGradeA" classname="com.gradeclassifier.StudentGradeClassifierTest" time="0.001"/>
+    <testcase name="testClassifyGradeB" classname="com.gradeclassifier.StudentGradeClassifierTest" time="0.0"/>
+    <testcase name="testClassifyGradeC" classname="com.gradeclassifier.StudentGradeClassifierTest" time="0.0"/>
+    <testcase name="testClassifyGradeD" classname="com.gradeclassifier.StudentGradeClassifierTest" time="0.0"/>
+    <testcase name="testClassifyGradeF" classname="com.gradeclassifier.StudentGradeClassifierTest" time="0.0"/>
+    <testcase name="testInvalidScoreOver100" classname="com.gradeclassifier.StudentGradeClassifierTest" time="0.0"/>
+    <testcase name="testGradeDescriptionA" classname="com.gradeclassifier.StudentGradeClassifierTest" time="0.0"/>
+    <testcase name="testGradeDescriptionB" classname="com.gradeclassifier.StudentGradeClassifierTest" time="0.0"/>
+    <testcase name="testGradeDescriptionC" classname="com.gradeclassifier.StudentGradeClassifierTest" time="0.0"/>
+    <testcase name="testGradeDescriptionD" classname="com.gradeclassifier.StudentGradeClassifierTest" time="0.0"/>
+    <testcase name="testGradeDescriptionF" classname="com.gradeclassifier.StudentGradeClassifierTest" time="0.0"/>
+    <testcase name="testInvalidGrade" classname="com.gradeclassifier.StudentGradeClassifierTest" time="0.001"/>
+  </testsuite>
+</testrun>
